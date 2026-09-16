@@ -1,0 +1,25 @@
+src/main/java/com/homecrew/workerservice/WorkerserviceApplication.java
+  s_3d9bbfd7b8519e::t_79f9a668ec2849 10-12
+src/main/java/com/homecrew/workerservice/config/SecurityConfig.java
+  s_3d9bbfd7b8519e::t_3832233d719dca 11-21,23-24
+src/main/java/com/homecrew/workerservice/controller/WorkerController.java
+  s_3d9bbfd7b8519e::t_9d4ab55e1970e2 11-14
+src/test/java/com/homecrew/workerservice/WorkerserviceApplicationTests.java
+  s_3d9bbfd7b8519e::t_aafe3b09f0e8d0 9-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "2a8b80b8b98ebb28cf5e00698dd9f1762b2965a0",
+  "prompts": {},
+  "sessions": {
+    "s_3d9bbfd7b8519e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "56713074-cac4-4411-b930-44405690d84c",
+        "model": "anthropic.claude-opus-5"
+      },
+      "human_author": "mThanuj <mullagurithanuj0@gmail.com>"
+    }
+  }
+}
