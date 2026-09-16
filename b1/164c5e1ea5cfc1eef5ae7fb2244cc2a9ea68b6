@@ -1,0 +1,19 @@
+config/spotbugs-exclude.xml
+  s_3d9bbfd7b8519e::t_b76368d5ffe495 43-59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "b1164c5e1ea5cfc1eef5ae7fb2244cc2a9ea68b6",
+  "prompts": {},
+  "sessions": {
+    "s_3d9bbfd7b8519e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "56713074-cac4-4411-b930-44405690d84c",
+        "model": "anthropic.claude-opus-5"
+      },
+      "human_author": "mThanuj <mullagurithanuj0@gmail.com>"
+    }
+  }
+}
