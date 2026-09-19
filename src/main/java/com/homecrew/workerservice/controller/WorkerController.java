@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/workers")
 public class WorkerController {
 
-    @GetMapping("/test")
-    public String test() {
-        return "Worker Service is working";
-    }
+  @GetMapping("/test")
+  public String test() {
+    return "Worker Service is working";
+  }
 }
